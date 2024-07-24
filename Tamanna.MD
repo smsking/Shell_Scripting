@@ -35,3 +35,27 @@ then push the exchanges in to the github by using the command
 ```
 git push -u origin main
 ```
+
+you can done this all by single command
+
+```
+git add . /git status/git commit -m "updated"/git push -u origin main
+```
+
+*if you want to pull the data or code in to any other server you have to follow
+these steps*
+
+you have to clone the github with the server
+
+```
+git clone <link of GitHub repository>
+```
+then you have to pull the request by using the command
+
+```
+git pull
+```
+
+
+
+
