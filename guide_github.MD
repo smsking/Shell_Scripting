@@ -56,6 +56,12 @@ then you have to pull the request by using the command
 git pull
 ```
 
+to remove the file from the github or remove unwanted filr by using the command
+
+```
+git rm <file-name>
+```
+
 
 
 
